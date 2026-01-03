@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+![Starstruck](./achievement.png)
 
 ### ⭐ Starstruck Achievement ⭐
 
